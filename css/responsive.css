@@ -1,0 +1,28 @@
+@media only screen and (max-width: 575px) {
+
+	/*PAGE CONTENT START*/
+	.content-details .logo img {
+		width: 150px;
+	}
+	.content-details .search-form {
+		width: 300px;
+		padding: 8px 12px;
+	}
+	.content-details .search-form svg {
+		width: 7%;
+	}
+	/*PAGE CONTENT END*/
+
+	/*FOOTER START*/
+	.footer-menu-left {
+		float: none;
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.footer-menu-right {
+		float: none;
+		width: 100%;
+		text-align: left;
+	}
+	/*FOOTER END*/
+}
